@@ -79,15 +79,7 @@
     />
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbhishekYadav2207&langs_count=4&theme=light_github" alt="Top Langs" />
   </picture>
-  <a href="https://wakatime.com/@AbhishekYadav2207">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=AbhishekYadav2207&langs_count=6&theme=dark_github"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=AbhishekYadav2207&langs_count=6&theme=light_github" alt="Abhishek's WakaTime stats" />
-    </picture>
-  </a>
+
 
 ---
 
