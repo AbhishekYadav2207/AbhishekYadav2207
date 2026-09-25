@@ -1,107 +1,200 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+# Hi, I'm Abhishek 👋
 
-<h1 align="center">Hi 👋, I'm Abhishek Paleru</h1>
-<h3 align="center">A passionate Data Science student focused on building intelligent systems using Python, Machine Learning, and data analytics. I enjoy solving real-world problems through technology and developing scalable backend applications.</h3>
+I'm a **Data Science student** focused on building practical applications with **Python, Machine Learning, NLP, Django, Flask, and REST APIs**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekyadav2207&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekyadav2207" /> </p>
+I enjoy working on projects that combine **data, backend systems, APIs, and AI/ML** to solve practical problems.
 
-- 🔭 I’m currently working on **AI-driven analytics systems and backend applications**
+## 🚀 What I Work With
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, DevOps, and scalable backend architectures**
+**Languages**
 
-- 👯 I’m looking to collaborate on **open-source data science and AI projects**
+* Python
+* SQL
+* JavaScript
 
-- 🤝 I’m looking for help with [Building frontend for Medical EHR System](https://github.com/AbhishekYadav2207/medical-ehr)
+**Data & Machine Learning**
 
-- 👨‍💻 All of my projects are available at [abhishekyadav.tech](abhishekyadav.tech)
+* NumPy
+* Pandas
+* Machine Learning
+* NLP
+* Data Analysis
 
-- 💬 Ask me about **Python, Data Analysis, Flask, Django, and Machine Learning**
+**Backend & APIs**
 
-- 📫 How to reach me **abhishekpaleru0@gmail.com**
+* Django
+* Django REST Framework
+* Flask
+* REST APIs
+* Authentication & Role-Based Access Control
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-paleru-779219349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-paleru-779219349" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25097955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25097955" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_cr7_addicted" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_cr7_addicted" height="30" width="40" /></a>
-</p>
+**Databases**
 
-<h3 align="left">Languages and Tools:</h3>
+* PostgreSQL
+* SQLite
 
-<br clear="both">
+**Tools & Platforms**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+* Git
+* GitHub
+* Docker
+* Linux
+* VS Code
 
-###
+**Other**
 
-<br clear="both">
-<h3 align="left">My GitHub Profile Statistics:</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekYadav2207&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=AbhishekYadav2207&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekYadav2207&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekYadav2207&radius=16&theme=merko&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
+* Qiskit
+* IBM Quantum
 
-###
+---
 
+## 🔭 Current Focus
+
+* Building data-driven applications with Python
+* Developing REST APIs and backend systems
+* Exploring Machine Learning and NLP
+* Improving software architecture, testing, and documentation
+* Learning how to build reliable AI-powered applications
+
+---
+
+## ⭐ Featured Projects
+
+### 🌾 [Smart Farming AI](https://github.com/AbhishekYadav2207/Smart_Farming_AI)
+
+A Flask-based agricultural platform designed around farmer, government, and administrative workflows.
+
+**Highlights**
+
+* AI-assisted agricultural features
+* Crop recommendation workflows
+* Disease analysis
+* Agricultural analytics
+* Role-based application workflows
+
+**Tech:** Python, Flask, SQLAlchemy, HTML, CSS, JavaScript
+
+---
+
+### 🚜 [CRM Tracker](https://github.com/AbhishekYadav2207/crm_tracker)
+
+A Django REST platform for managing crop-residue management machinery and related operations.
+
+**Highlights**
+
+* Machine inventory management
+* Farmer booking workflows
+* Usage tracking
+* Role-based access control
+* REST APIs
+* Analytics
+* Automated testing
+
+**Tech:** Python, Django, Django REST Framework, PostgreSQL, JWT
+
+---
+
+### 🏥 [Medical EHR](https://github.com/AbhishekYadav2207/medical-ehr)
+
+A Django REST application for managing electronic health-record workflows and related healthcare data.
+
+**Highlights**
+
+* REST API architecture
+* Authentication and permissions
+* Patient and organization workflows
+* Appointments
+* Laboratory and pharmacy modules
+* Audit-oriented functionality
+
+**Tech:** Python, Django, Django REST Framework, PostgreSQL, Docker
+
+---
+
+### ⚛️ [Quantum Job Tracker](https://github.com/AbhishekYadav2207/Quantum-Job-Tracker)
+
+A Flask dashboard for managing and monitoring quantum-computing jobs through IBM Quantum services.
+
+**Highlights**
+
+* Quantum job management
+* Job status monitoring
+* Backend analytics
+* Queue estimation
+* Visualization dashboard
+* Qiskit Runtime integration
+
+**Tech:** Python, Flask, Qiskit, IBM Quantum, Chart.js, Bootstrap
+
+---
+
+### 🧠 [EmotiSense](https://github.com/AbhishekYadav2207/emotisense)
+
+An NLP-based emotion detection application for analyzing emotional signals in text.
+
+**Highlights**
+
+* Rule-based emotion detection
+* Keyword and phrase analysis
+* Emoji handling
+* Negation and intensity handling
+* Experimental TF-IDF + Logistic Regression implementation
+
+**Tech:** Python, Flask, NLP, TF-IDF, Scikit-learn
+
+---
+
+## 🧩 Areas of Interest
+
+* Data Science
+* Machine Learning
+* Natural Language Processing
+* Backend Development
+* REST API Development
+* Data-driven Applications
+* AI-powered Systems
+
+---
+
+## 📚 Currently Learning
+
+I'm continuously improving my skills in:
+
+* Advanced Machine Learning
+* NLP
+* Backend architecture
+* API design
+* Database design
+* Testing and software engineering practices
+* AI application development
+
+---
+
+## 🛠️ How I Approach Projects
+
+I try to build projects around a simple workflow:
+
+**Problem → Data → Design → Implementation → Testing → Documentation**
+
+My goal is not just to make a project work, but to understand the **data, architecture, backend logic, APIs, and engineering decisions** behind it.
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekYadav2207\&show_icons=true\&hide_border=true\&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekYadav2207\&layout=compact\&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+* **Portfolio:** [abhishekyadav.tech](https://abhishekyadav.tech)
+* **GitHub:** [@AbhishekYadav2207](https://github.com/AbhishekYadav2207)
+
+I'm open to connecting with people interested in **Data Science, Machine Learning, Python, backend development, and AI-focused projects**.
+
+---
+
+> *Build projects. Understand the fundamentals. Keep improving.*
